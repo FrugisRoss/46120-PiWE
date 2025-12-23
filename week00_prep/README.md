@@ -8,22 +8,30 @@ I.e., the prep time for Week 1 is significantly higher for people who are newer 
 Please plan your time accordingly. This skewed preparation time for newer programmers will reduce after the first few weeks.  
 
 ### You are ready for Week 1 of PiWE when you have:  
-1.	Installed Python and VS code.  
-1.	Installed scientific Python packages.  
-1.	Installed git.  
+1. Installed Slack and joined the class Slack chat.
+1. Installed Python and VS code.  
+1. Installed scientific Python packages.  
+1. Installed git.  
 1. Created a GitHub account.  
-1.	Forked and cloned this repository.  
+1. Forked and cloned this repository.  
 1. Completed the basic Python course/exercises.
 1. Completed the Python exercises and `week00_prep_answers.py`.  
 
 ## Working in pairs
 
-Steps 1 through 6 need to be completed on your individual laptop/computer. For the Python exercises (Step 7),
+Everything but the last step need to be completed on your individual laptop/computer. For the final exercise,
 you are welcome--nay, encouraged!--to work in pairs. Engineering is collaborative problem solving. When
 you have finished `week00_prep_answers.py`, add a comment to the top with your names and make sure you
 both have a copy locally before coming to class in Week 1.
 
-## 1. Install/verify VS Code and Python
+## 1. Install Slack and join the class Slack chat
+
+We use the Slack messaging platform for communication and answering questions.
+You can install Slack on your laptop and on your phone.
+
+Join the class Slackchat by navigating to the course Learn page and clicking the link in the upper right corner.
+
+## 2. Install/verify VS Code and Python
 
 * If you already have a Python IDE/distribution (e.g., Anaconda/Spyder, PyCharm, etc.):  
    * If you are very comfortable with your IDE and Python distribution (e.g., know how to install/uninstall
@@ -40,7 +48,7 @@ both have a copy locally before coming to class in Week 1.
      if it still won't behave.  
 
 
-## 2. Install scientific Python packages
+## 3. Install scientific Python packages
 
 If you already have the packages below installed in a Python distribution/environment, you may skip this step.
 
@@ -56,18 +64,18 @@ We will learn more about what they do during the course.
 If you don't know what this means, ignore it. :)*
 
 
-## 3. Install git
+## 4. Install git
 
 If you already have a git program, skip this step.
 
 Install the git program from [this website](https://git-scm.com/).
 
 
-## 4. Make a GitHub account
+## 5. Make a GitHub account
 
 Go to [GitHub.com](https://github.com/) and create an account. Noice.
 
-## 5. Clone this repository
+## 6. Clone this repository
 
 A "repository" is often called "repo", 'cause life is short.  
 
@@ -83,10 +91,12 @@ A "repository" is often called "repo", 'cause life is short.
    ```git clone <HTTPS link you copied>```
 1. This should create a subfolder called `46120-PiWE`, which should contain the repo material.  
 
-## 6. Complete the basic Python refresher/prep course
+## 7. Complete the basic Python refresher/prep course
 
 Use ChatGPT as little as possible for these exercises.
 This is basic knowledge that you should be able to remember without assistance.
+
+**If you need help, post your questions in the course Slack chat.**
 
 ### If you are very familiar with Python and Jupyter notebooks in VS Code:
 
@@ -106,7 +116,7 @@ See the instructions on the "Basic Python Prep Course" on Learn.
 Afterwards, if you want more practice, optionally complete the `welcome_to_python.ipynb` Jupyter notebook in VS Code.
 
 
-## 7. Finish week00_prep_answers.py
+## 8. Finish week00_prep_answers.py
 
 Create a file called `week00_prep_answers.py` in your `46120-PiWE/week00_prep/` folder on your computer.
 In this file, write code that completes Required Exercises 1 through 5 on [this page](https://python-at-risoe.pages.windenergy.dtu.dk/codecamp/preparation.html#Required-exercises). 
