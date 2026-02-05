@@ -6,23 +6,19 @@ these areas to MSc/PhD students working in wind energy.
 
 ## Course information
 
-Kursusbasen page: [direct link](https://kurser.dtu.dk/course/46120).
+* Kursusbasen page: [direct link](https://kurser.dtu.dk/course/46120).
 
 ### Where/when
 
-PiWE 2025 dates, times and locations:
- * Thursdays, **9:00(!!)** to 12:00
- * Physical location: TBD
- * Virtual location: Zoom link on Learn page
+* Read [this file](./AttendanceExpectations.md) for how to attend the course and expectations of you when you attend.
 
-The course is hybrid, meaning that you can attend physically or online as you choose.
 
 ### Tentative course schedule
 
 | Week    | Lecture | Topic                                                | Due this week                       |
 |---------|---------|------------------------------------------------------|-------------------------------------|
 | Week 0  | ---     | Set up, prep for Week 1                              |                                     |
-| Week 1  | 05-feb  | Introduction, Git/GitLab                             | Pre-class preparation               |
+| Week 1  | 05-feb  | Introduction, Git/GitHub                             | Pre-class preparation               |
 | Week 2  | 12-feb  | Functions and tests                                  |                                     |
 | Week 3  | 19-feb  | CodeCamp I: Loading and plotting, PSD, eigenanalysis | Sign up for CodeCamp project group  |
 | Week 4  | 26-feb  | CodeCamp II: simulate_turbie()                       |                                     |
@@ -30,7 +26,7 @@ The course is hybrid, meaning that you can attend physically or online as you ch
 | Week 6  | 12-mar  | CodeCamp final project presentations                 | CodeCamp final project (pass/fail)  |
 | Week 7  | 19-mar  | Packaging and dependencies                           |                                     |
 | Week 8  | 26-mar  | Final project introduction                           | Sign up for final project group     |
-|  EASTER | 09-apr  | --                                                   |                                     |
+| EASTER  | 02-apr  | --                                                   |                                     |
 | Week 9  | 09-apr  | Classes, inheritence and OOP                         |                                     |
 | Week 10 | 16-apr  | Computational thinking and design of architecture    |                                     |
 | Week 11 | 23-apr  | Midway presentations                                 |                                     |
