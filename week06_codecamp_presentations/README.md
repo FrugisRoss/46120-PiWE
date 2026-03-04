@@ -13,6 +13,7 @@ Information on project requirements and evaluation rubric is in PDF in this fold
 ## Peer evaluation
 
 * CodeCamp repos will be visible to students Tuesday morning, March 10.
+    * Find links in CodeCamp sign-up sheet on Learn.
 * Each team collaboratively evaluates 3 other teams to pass CodeCamp project.  
     * A minority of teams may only give/receive feedback on 2 other teams.
 * You give/receive receive feedback for teams in same set as you (see table below).
