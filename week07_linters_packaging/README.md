@@ -1,4 +1,4 @@
-# PiWE Week 7: Misc., Linters and Packaging
+# PiWE Week 7: Linters and Packaging
 
 ## Overall objectives
 
