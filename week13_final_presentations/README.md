@@ -42,7 +42,7 @@ Details to be added afternoon of Monday May 4.
 
 In class in Week 13 (either in person or online), there will be a small quiz to very a few learning objectives not covered by the final project.
 The quiz is timed and it contributes to part of your grade as per the course description.
-
+All aid is allowed during the quiz.
 
 ### What you must have before the quiz
 
